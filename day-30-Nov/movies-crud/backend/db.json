@@ -1,0 +1,40 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Master",
+      "director": "Suresh",
+      "actor": "Vijay",
+      "img": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__340.jpg",
+      "desc": "One of Lokesh Kanagaraj’s discernable qualities as a storyteller"
+    },
+    {
+      "id": 2,
+      "name": "Sarkar",
+      "director": "Ganesh",
+      "actor": "Thalapathy",
+      "img": "https://cdn.pixabay.com/photo/2021/08/25/20/42/field-6574455__480.jpg",
+      "desc": "Sundar Ramasamy (Vijay) is an NRI corporate honcho who comes to India"
+    },
+    {
+      "name": "RRR",
+      "director": "RajaMouli",
+      "actor": "Ram Charan Tej, NTR",
+      "id": 4
+    }
+  ],
+  "artists": [
+    {
+      "id": 101,
+      "name": "Raghav",
+      "nationality": "Indian",
+      "skills": "Best Actor"
+    },
+    {
+      "id": 102,
+      "name": "Vikram",
+      "nationality": "Indian",
+      "skills": "Best Comedian"
+    }
+  ]
+}
